@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact the QA Framework team at qa-framework@example.com.
+For any questions or inquiries, please contact me at eqir159@gmail.com.
