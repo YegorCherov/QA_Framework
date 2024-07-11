@@ -41,7 +41,7 @@ The QA Framework is a comprehensive and scalable quality assurance solution for 
 
 To use the QA Framework, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/qa-framework.git`
+1. Clone the repository: `git clone https://github.com/YegorCherov/qa-framework.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Customize the configuration settings in the `utils/config_loader.py` file.
 4. Run the web and API tests: `python -m tests.web_tests` and `python -m tests.api_tests`
